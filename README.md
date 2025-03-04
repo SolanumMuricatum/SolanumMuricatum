@@ -30,7 +30,7 @@ I'm just a little кринженер-девелопер
 </div>
 
 ### Spotify now:
-[![Spotify](https://solanummuricatum.vercel.app/api/spotify)]
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31td4byvkyybfvaoaybf3nb5kzi4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31td4byvkyybfvaoaybf3nb5kzi4&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=800080&bar_color_cover=true)]]
 
 ### :fire: My Stats :
 <div align="left">
