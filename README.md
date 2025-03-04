@@ -30,7 +30,7 @@ I'm just a little кринженер-девелопер
 </div>
 
 ### 🎧 Spotify now:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&redirect=true)
 
 ### :fire: My Stats :
 <div align="left">
