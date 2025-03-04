@@ -2,6 +2,7 @@
 ### :woman_technologist: About Me :
 I'm just a little кринженер-девелопер
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -21,7 +22,7 @@ I'm just a little кринженер-девелопер
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SolanumMuricatum&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SolanumMuricatum)](https://git.io/streak-stats)
 
 <!--
 **SolanumMuricatum/SolanumMuricatum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
