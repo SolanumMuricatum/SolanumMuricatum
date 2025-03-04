@@ -30,7 +30,7 @@ I'm just a little кринженер-девелопер
 </div>
 
 ### Spotify now:
-[![Spotify](https://solanummuricatum.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://solanummuricatum.vercel.app/api/spotify)]
 
 ### :fire: My Stats :
 <div align="left">
