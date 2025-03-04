@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a308a252-d950-4220-96ae-362952626548)## Hi there 👋
+## Hi there 👋
 ### :woman_technologist: About Me :
 I'm just a little кринженер-девелопер
 ### :hammer_and_wrench: Languages and Tools :
