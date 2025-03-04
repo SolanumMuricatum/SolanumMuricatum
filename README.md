@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/a308a252-d950-4220-96ae-362952626548)## Hi there 👋
 ### :woman_technologist: About Me :
 I'm just a little кринженер-девелопер
 ### :hammer_and_wrench: Languages and Tools :
@@ -30,7 +30,7 @@ I'm just a little кринженер-девелопер
 </div>
 
 ### 🎧 Spotify now:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=800080&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=800080&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### :fire: My Stats :
 <div align="left">
