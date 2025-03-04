@@ -29,6 +29,9 @@ I'm just a little кринженер-девелопер
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 </div>
 
+### Spotify now:
+[![Spotify](https://solanummuricatum.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 ### :fire: My Stats :
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SolanumMuricatum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
