@@ -29,7 +29,7 @@ I'm just a little кринженер-девелопер
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 </div>
 
-### Spotify now:
+### 🎧Spotify now:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=800080&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&redirect=true)
 
 ### :fire: My Stats :
