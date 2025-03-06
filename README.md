@@ -31,7 +31,6 @@ I'm just a little кринженер-девелопер
 
 ### 🌌 Spotify now:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&redirect=true)
-
 ### 🔃 Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SolanumMuricatum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
