@@ -1,7 +1,7 @@
 ## Hi there 👋
-### :woman_technologist: About Me :
+### About Me :
 I'm just a little кринженер-девелопер
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -29,10 +29,10 @@ I'm just a little кринженер-девелопер
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 </div>
 
-### 🎧 Spotify now:
+### Spotify now:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31td4byvkyybfvaoaybf3nb5kzi4&redirect=true)
 
-### :fire: My Stats :
+### Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SolanumMuricatum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SolanumMuricatum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="180" alt="languages graph"  />
